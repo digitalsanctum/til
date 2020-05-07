@@ -1,6 +1,9 @@
 # til
 Today I Learned
 
+## May 7, 2020
+* [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
+
 ## May 6, 2020
 * `docker system prune`
 * [exa](https://the.exa.website/) - modern replacement for `ls` written in Rust.
