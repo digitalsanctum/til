@@ -1,6 +1,9 @@
 # til
 Today I Learned
 
+## May 11, 2020
+* [Kubernetes GC](https://kubernetes.io/docs/concepts/workloads/controllers/garbage-collection/) - by default, once disk usage is 80% the GC will delete container images.
+
 ## May 7, 2020
 * [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
