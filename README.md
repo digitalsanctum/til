@@ -3,6 +3,18 @@ Today I Learned
 
 ## June 2, 2020
 * There are 3-4 implementations in mainstream use: nawk (the one true awk, an ancient version of which is installed on Mac OS by default), mawk (installed on eg. Ubuntu by default), gawk (on RH by default last I checked), or busybox-awk. Tip: mawk is much faster than the others and to get performance out of gawk you should use LANG=C (and also because of crashes with complex regexpes in Unicode locales in some versions of gawk 3 and 4).
+* [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html) - substitutes the values of environment variables.
+
+```
+FOO=foo
+BAR=bar
+export FOO BAR
+
+envsubst <<EOF
+FOO is $FOO
+BAR is $BAR
+EOF
+```
 
 ## May 11, 2020
 * [Kubernetes GC](https://kubernetes.io/docs/concepts/workloads/controllers/garbage-collection/) - by default, once disk usage is 80% the GC will delete container images.
