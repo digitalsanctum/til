@@ -2,7 +2,10 @@
 Today I Learned
 
 ## June 2, 2020
+* [Nix](https://nixos.wiki/wiki/Nix) - a package manager and build system that parses reproducible build instructions specified in the Nix Expression Language, a pure functional language with lazy evaluation. 
 * There are 3-4 implementations in mainstream use: nawk (the one true awk, an ancient version of which is installed on Mac OS by default), mawk (installed on eg. Ubuntu by default), gawk (on RH by default last I checked), or busybox-awk. Tip: mawk is much faster than the others and to get performance out of gawk you should use LANG=C (and also because of crashes with complex regexpes in Unicode locales in some versions of gawk 3 and 4).
+* [xstate](https://xstate.js.org/docs/) - JavaScript and TypeScript finite state machines and statecharts.
+* [shadowenv](https://github.com/Shopify/shadowenv) - reversible directory-local environment variable manipulations.
 * [envsubst](https://www.gnu.org/software/gettext/manual/html_node/envsubst-Invocation.html) - substitutes the values of environment variables.
 
 ```
