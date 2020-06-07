@@ -1,6 +1,11 @@
 # til
 Today I Learned
 
+## June 7, 2020
+* [Cadence Workflow](https://cadenceworkflow.io/) - a fault-oblivious stateful programming model that obscures most of the complexities of building scalable distributed applications. In essence, Cadence provides a durable virtual memory that is not linked to a specific process, and preserves the full application state, including function stacks, with local variables across all sorts of host and software failures. This allows you to write code using the full power of a programming language while Cadence takes care of durability, availability, and scalability of the application.
+* [Saga Pattern](https://microservices.io/patterns/data/saga.html) - Implement each business transaction that spans multiple services as a saga. A saga is a sequence of local transactions. Each local transaction updates the database and publishes a message or event to trigger the next local transaction in the saga. If a local transaction fails because it violates a business rule then the saga executes a series of compensating transactions that undo the changes that were made by the preceding local transactions.
+
+
 ## June 4, 2020
 * [d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions using D3.
 * [smol](https://github.com/stjepang/smol) - small and fast async runtime for Rust.
