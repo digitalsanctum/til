@@ -1,6 +1,9 @@
 # til
 Today I Learned
 
+## June 9, 2020
+* 432 Hz vs. 440 Hz Tuning Standards
+
 ## June 7, 2020
 * [Temporal workflow vs Cadence workflow](https://stackoverflow.com/questions/61157400/temporal-workflow-vs-cadence-workflow) - explaination of the differences by the original tech lead of both.
 * [Cadence Workflow](https://cadenceworkflow.io/) - a fault-oblivious stateful programming model that obscures most of the complexities of building scalable distributed applications. In essence, Cadence provides a durable virtual memory that is not linked to a specific process, and preserves the full application state, including function stacks, with local variables across all sorts of host and software failures. This allows you to write code using the full power of a programming language while Cadence takes care of durability, availability, and scalability of the application.
