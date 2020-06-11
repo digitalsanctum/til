@@ -1,6 +1,10 @@
 # til
 Today I Learned
 
+## June 10, 2020
+* [GOTO 2020 • What We Left Behind - 10 Valuable Skills From The 1990s • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=DrBPXSiUWbI)
+* [GOTO 2020 • Beyond Microservices: Streams, State and Scalability • Gwen Shapira](https://www.youtube.com/watch?v=H0LUi51aCP8)
+
 ## June 9, 2020
 * 432 Hz vs. 440 Hz Tuning Standards
 
