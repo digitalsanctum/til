@@ -1,6 +1,10 @@
 # til
 Today I Learned
 
+## June 12, 2020
+* [nats](https://nats.io/) - a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.
+* [dapr](https://dapr.io/) - distributed application runtime built on nats.
+
 ## June 10, 2020
 * [GOTO 2020 • What We Left Behind - 10 Valuable Skills From The 1990s • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=DrBPXSiUWbI)
 * [GOTO 2020 • Beyond Microservices: Streams, State and Scalability • Gwen Shapira](https://www.youtube.com/watch?v=H0LUi51aCP8)
