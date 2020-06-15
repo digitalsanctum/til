@@ -2,6 +2,7 @@
 Today I Learned
 
 ## June 15, 2020
+* [rook](https://rook.io/) - open-source, cloud-native storage for Kubernetes. Rook orchestrates multiple storage solutions, each with a specialized Kubernetes Operator to automate management. Choose the best storage provider for your scenarios, and Rook ensures that they all run well on Kubernetes with the same, consistent experience.
 * [sealed secrets](https://github.com/bitnami-labs/sealed-secrets) - a Kubernetes controller and tool for one-way encrypted Secrets.
 
 ## June 12, 2020
