@@ -1,6 +1,9 @@
 # til
 Today I Learned
 
+## June 15, 2020
+* [sealed secrets](https://github.com/bitnami-labs/sealed-secrets) - a Kubernetes controller and tool for one-way encrypted Secrets.
+
 ## June 12, 2020
 * [nats](https://nats.io/) - a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.
 * [dapr](https://dapr.io/) - distributed application runtime built on nats.
