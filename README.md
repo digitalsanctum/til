@@ -4,6 +4,7 @@ Today I Learned
 ## June 15, 2020
 * [rook](https://rook.io/) - open-source, cloud-native storage for Kubernetes. Rook orchestrates multiple storage solutions, each with a specialized Kubernetes Operator to automate management. Choose the best storage provider for your scenarios, and Rook ensures that they all run well on Kubernetes with the same, consistent experience.
 * [sealed secrets](https://github.com/bitnami-labs/sealed-secrets) - a Kubernetes controller and tool for one-way encrypted Secrets.
+* [sops](https://github.com/mozilla/sops) - an editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP. 
 
 ## June 12, 2020
 * [nats](https://nats.io/) - a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.
