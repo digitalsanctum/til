@@ -1,6 +1,9 @@
 # til
 Today I Learned
 
+## July 1, 2020
+* [entr](https://jvns.ca/blog/2020/06/28/entr/) - Run arbitrary commands when files change.
+
 ## June 20, 2020
 * [Charles Proteus Steinmetz, the Wizard of Schenectady](https://www.smithsonianmag.com/history/charles-proteus-steinmetz-the-wizard-of-schenectady-51912022/) - His contributions to mathematics and electrical engineering made him one of the most beloved and instantly recognizable men of his time.
 * [Function tests in Bash and the errexit mode](https://advancedweb.hu/function-tests-in-bash-and-the-errexit-mode/) - `#!/bin/sh` vs `#!/bin/bash`, POSIX mode and the inconsistencies of errexit.
